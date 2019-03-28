@@ -54,5 +54,4 @@ mosquitto_sub -h 127.0.0.1 -t '#' -d
  1. <a href="https://www.wago.com/de/" title="wago">https://www.wago.com/de/</a>
  2. <a href="https://mqttfx.jensd.de/" title="MQTTfx">https://mqttfx.jensd.de/</a>
  3. <a href="https://www.putty.org/" title="MQTTfx">https://www.putty.org/</a>
- 
-Enjoy the extented power of the whale!
+
