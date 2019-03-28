@@ -52,7 +52,7 @@ mosquitto_sub -h 127.0.0.1 -t '#' -d
 
 ## Links
  1. <a href="https://www.wago.com/de/" title="wago">https://www.wago.com/de/</a>
- 2. <a href=" https://mqttfx.jensd.de/"</a>
+ 2. <a href="https://mqttfx.jensd.de/" title="wago">https://www.wago.com/de/</a>
 
  
 Enjoy the extented power of the whale!
