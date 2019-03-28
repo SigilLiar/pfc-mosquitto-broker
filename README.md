@@ -3,9 +3,7 @@ Add a local mosquitto broker on PFC G1/G2 or TP600 devices.
 
 # mosquitto-ipk
 This repo contains an ipk file to add a local mosquitto broker on PFC 100/200 devices.
-<div style="text-align: center">
-     alt="install docker"/>
-</div>
+- Wago <a href="https://github.com/WAGO/docker-ipk/releases" title="docker.ipk">docker.ipk</a>
 
 # How to install MQTT Broker on Wago devices.
 
