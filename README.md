@@ -34,7 +34,7 @@ password `wago`
 ```bash
 mosquitto --version
  ```
-## Add a local 'sub' toipic inside console
+## Add a local 'sub' topic inside console
 
 ```bash
 mosquitto_sub -h 127.0.0.1 -t '#' -d
