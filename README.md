@@ -2,7 +2,7 @@
 Add a local mosquitto broker on PFC G1/G2 or TP600 devices.
 
 # mosquitto-ipk
-This repo contains an ipk file to add a loccal mosquitto broker on PFC 100/200 devices.
+This repo contains an ipk file to add a local mosquitto broker on PFC 100/200 devices.
 
 
 # How to install MQTT Broker on Wago devices.
