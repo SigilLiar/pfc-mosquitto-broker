@@ -1,12 +1,12 @@
-# PFC Mosquitto Broker
-Add a local mosquitto broker on PFC G1/G2 or TP600 devices.
+# PFC Mosquitto Broker - Client
+Add a local mosquitto broker and client on PFC G1/G2 or TP600 devices.
 
 # mosquitto-ipk
 This repo contains an ipk file to add a local mosquitto broker on PFC 100/200 devices.
 - Wago <a href="https://github.com/WAGO/PFC_Mosquitto_Broker/blob/master/mosquitto_1.4.14_armhf.ipk" title="MQTT.ipk">mosquitto.ipk</a>
   
 
-# How to install MQTT Broker on Wago devices.
+# How to install MQTT Broker - Client on Wago devices.
 
 ## Prerequisites for tutorial
 - Wago PFC or Wago Touch Panel with min. firmware 12 or higher installed in flash. 
@@ -29,11 +29,18 @@ Start SSH Client e.g. Putty
 login as `root`
 password `wago`
  ```
-## Check docker-compose installation
+## Check mosquitto-broker-client installation
 
 ```bash
 mosquitto --version
  ```
+## Add a local 'sub' toipic inside console
+
+```bash
+mosquitto_sub -h 127.0.0.1 -t '#' -d
+ ``` 
+ Use an MQTT client to send to broker.
+ For example MQTTfx: https://mqttfx.jensd.de/
 ## Known issues
 
 ## Links
