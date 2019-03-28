@@ -1,7 +1,7 @@
 # PFC_Mosquitto_Broker
 Add a local mosquitto broker on PFC devices
 
-# docker-compose-ipk
+# mosquitto-ipk
 This repo contains an ipk file to add a loccal mosquitto broker on PFC 100/200 devices.
 
 
