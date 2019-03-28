@@ -1,4 +1,4 @@
-# PFC_Mosquitto_Broker
+# PFC Mosquitto Broker
 Add a local mosquitto broker on PFC G1/G2 or TP600 devices.
 
 # mosquitto-ipk
