@@ -48,7 +48,8 @@ mosquitto_sub -h 127.0.0.1 -t '#' -d
 </div>
 
 ## Known issues
-Test
+
+
 ## Links
  1. <a href="https://www.wago.com/de/" title="wago">https://www.wago.com/de/</a>
  2. <a href="https://mqttfx.jensd.de/" title="MQTTfx">https://mqttfx.jensd.de/</a>
