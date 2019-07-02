@@ -28,3 +28,10 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
 ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+    
+This project is dual licensed under the Eclipse Public License 1.0 and the
+Eclipse Distribution License 1.0 as described in the epl-v10 and edl-v10 files.
+    
+This project is dual licensed under the Eclipse Public License 1.0 and the
+Eclipse Distribution License 1.0 as described in the epl-v10 and edl-v10 files.
