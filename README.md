@@ -12,7 +12,7 @@ This repo contains an ipk file to add a local mosquitto broker and client on Wag
 # How to install MQTT Broker - Client on Wago devices.
 
 ## Prerequisites for tutorial
-- Wago PFC or Wago Touch Panel with min. firmware 12 or higher installed in flash. 
+- Wago PFC or Wago Touch Panel with min. firmware 12 or higher installed in flash.(Release 1.5.7 testet with FW16 on PFC) 
 - PC with preinstalled SSH Client (e.g. https://www.putty.org/)
 - Web browser of your choice. (e.g. chrome).
 
