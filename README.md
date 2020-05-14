@@ -21,7 +21,7 @@ This repo contains an ipk file to add a local mosquitto broker and client on Wag
 
 1. Start Wago PFC.
 2. Open WBM (Web Base Management) menu "*Software Uploads*".
-3. Press "*Browse*" button and navigate to wago mosquitto_x.x.x.ipk file. (e.g. mosquitto_1.4.14_armhf.ipk)
+3. Press "*Browse*" button and navigate to wago mosquitto_x.x.x.ipk file. (e.g. mosquittobroker_1.5.7_armhf.ipk)
 4. Then press "*Start Upload*" button.
 5. After finishing the upload process, choise "force" and press "*Submit*" button to activate the software package. 
 6. Just ignore possible error messages.
