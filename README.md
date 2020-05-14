@@ -27,7 +27,7 @@ This repo contains an ipk file to add a local mosquitto broker and client on Wag
 6. Just ignore possible error messages.
 *********************************************************************************************************************
  If installation failed, open a ssh session an install ipk with "--force-reinstall" option.
- Use Comand: "var/downloads/update-script/opkg install --force-reinstall mosquittobroker_1.5.7_armhf.ipk"
+ Use Comand: "/var/downloads/update-script/ opkg install --force-reinstall mosquittobroker_1.5.7_armhf.ipk"
 *********************************************************************************************************************
 ## PFC Login
 Start SSH Client e.g. Putty 
